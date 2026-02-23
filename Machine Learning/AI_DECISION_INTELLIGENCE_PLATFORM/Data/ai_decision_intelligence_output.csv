@@ -1,0 +1,33 @@
+team_id,sprint_id,delivery_risk_score,burnout_risk_score,delivery_risk_level,burnout_risk_level,recommended_action,decision_confidence
+Team_7,9,0.00032643357,0.047622737,Low,Low,No action required,0.05
+Team_7,10,0.015250039,0.0039617494,Low,Low,No action required,0.02
+Team_7,11,2.299109e-05,0.011543398,Low,Low,No action required,0.01
+Team_7,12,0.06077624,0.030976905,Low,Low,No action required,0.06
+Team_7,13,9.5361065e-07,0.0034361698,Low,Low,No action required,0.0
+Team_7,14,0.07462841,0.99977726,Low,High,Reduce load and initiate burnout prevention,1.0
+Team_7,15,6.47039e-06,0.006373091,Low,Low,No action required,0.01
+Team_7,16,0.051425934,0.00028881675,Low,Low,No action required,0.05
+Team_7,17,0.11541969,0.00022157183,Low,Low,No action required,0.12
+Team_7,18,0.024413679,0.0006277661,Low,Low,No action required,0.02
+Team_7,19,0.00021756663,0.0041579497,Low,Low,No action required,0.0
+Team_7,20,0.13355312,0.027727658,Low,Low,No action required,0.13
+Team_8,1,0.112848975,0.0027954841,Low,Low,No action required,0.11
+Team_8,2,0.00013641773,0.0027372213,Low,Low,No action required,0.0
+Team_8,3,0.017223606,0.00010690235,Low,Low,No action required,0.02
+Team_8,4,0.07246802,0.99985623,Low,High,Reduce load and initiate burnout prevention,1.0
+Team_8,5,0.17480834,0.0023734688,Low,Low,No action required,0.17
+Team_8,6,0.016398394,0.0104775205,Low,Low,No action required,0.02
+Team_8,7,0.047827356,0.00018793765,Low,Low,No action required,0.05
+Team_8,8,0.093922384,0.0020668635,Low,Low,No action required,0.09
+Team_8,9,0.0021245866,0.01867213,Low,Low,No action required,0.02
+Team_8,10,0.0023502302,0.023599394,Low,Low,No action required,0.02
+Team_8,11,0.27851734,0.02246638,Low,Low,No action required,0.28
+Team_8,12,0.0008473582,0.0016607455,Low,Low,No action required,0.0
+Team_8,13,0.08629977,0.99993354,Low,High,Reduce load and initiate burnout prevention,1.0
+Team_8,14,3.8567716e-05,0.00264242,Low,Low,No action required,0.0
+Team_8,15,0.00052813475,0.052577198,Low,Low,No action required,0.05
+Team_8,16,0.020787554,0.82532364,Low,High,Reduce load and initiate burnout prevention,0.83
+Team_8,17,0.06898586,0.0036100242,Low,Low,No action required,0.07
+Team_8,18,0.012232265,0.00064110867,Low,Low,No action required,0.01
+Team_8,19,0.23833758,0.9712203,Low,High,Reduce load and initiate burnout prevention,0.97
+Team_8,20,1.1225714e-05,0.0028733416,Low,Low,No action required,0.0
